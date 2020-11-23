@@ -4,6 +4,10 @@
 
 
 
+<img src="image01.png" width=50%>
+
+
+
 ### Requirements
 
 **pip**
@@ -21,3 +25,14 @@
 * [Darknet](https://github.com/AlexeyAB/darknet)
 
 * [Yolomark](https://github.com/AlexeyAB/Yolo_mark)
+
+-----
+
+
+
+### Loss Graph
+
+<img src="chart.png" width = 60%>
+
+
+
